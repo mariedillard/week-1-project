@@ -74,7 +74,10 @@ body {
   font-size: 40px;
   letter-spacing: 10px;
 }
-
+.portfolio img {
+  width: 200px;
+  height: 200px;
+}
 @media screen and (max-width: 767px) {
   .hometitle p {
     letter-spacing: normal;
