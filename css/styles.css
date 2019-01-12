@@ -1,14 +1,85 @@
 body {
   background-color: #000000;
+  font-family: 'CarlitoRegular';
 }
-.header {
-  text-align: center;
-  padding: 50px 100px 50px 100px;
-  background-color: #000000;
+.navigation-bar {
+  padding: .5%;
+}
+.navigation-bar a {
+  color: #ff0000;
+  font-weight: bold;
+}
+.homelogo {
+  float: right;
+  margin: auto;
+}
+.homedisplay img {
+  padding: 5%;
+  max-height: 100%;
+}
+.headertitle {
+  float: left;
+  text-align: left;
+}
+.headerlinks {
+  text-align: right;
+  float: right;
 }
 .body {
-  text-align: left;
-  padding: 50px 25px 50px 25px;
-  background-color: #FFFFFF;
-  margin-bottom: 15px;
+  background-color: #f5f3bb;
+  padding: .5%;
+}
+.hometitle {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: italic;
+  color: #ffffff;
+  font-weight: bold;
+}
+.hometitle p {
+  background-image: url("../img/inspiration-geometry.png");
+  background-color: #f3d3be;
+  font-size: 60px;
+  letter-spacing: 50px;
+  padding: 5%;
+}
+.homedisplay {
+  background-color: #f5f3bb;
+  padding: .5%;
+}
+.hometext {
+  background-image: url("../img/inspiration-geometry.png");
+  background-color: #eaf9d9;
+  padding: 5%;
+  float: left;
+  margin: auto;
+  overflow: auto;
+}
+#logo{
+  width: 150px;
+  height: 150px;
+}
+
+.curlylabel{
+  font-family: 'GuillerMonkeyMedium';
+    color: #ff0000;
+}
+.sharplabel{
+  font-family: 'ChocoTxtRegular';
+  color: #72d241;
+}
+.creativelabels{
+  font-size: 40px;
+  letter-spacing: 10px;
+}
+
+@media screen and (max-width: 767px) {
+  .hometitle p {
+    letter-spacing: normal;
+  }
+  .creativelabels{
+    letter-spacing: normal;
+  }
 }
