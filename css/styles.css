@@ -64,11 +64,17 @@ body {
 
 .curlylabel{
   font-family: 'GuillerMonkeyMedium';
-    color: #ff0000;
+  color: #ff0000;
+  padding: 0.5%;
+  border-style: dashed;
+  border-color:#ff0000;
 }
 .sharplabel{
   font-family: 'ChocoTxtRegular';
   color: #72d241;
+  padding: 0.5%;
+  border-style: dashed;
+  border-color:#72d241;
 }
 .creativelabels{
   font-size: 40px;
