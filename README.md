@@ -27,5 +27,4 @@ _Contact Marie @MilkyBot on github and mariedillard@protonmail.com for support, 
 _Created using atom, code relies and uses elements from bootstrap js and bootstrap css._
 
 ### License
-Licensed Under Apache 2.0
-Copyright (c) 2016 **milkybot/rabbitmilk**
+Copyright (c) 2018 **milkybot/rabbitmilk**
