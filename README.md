@@ -6,7 +6,7 @@
 
 ## Description
 
-_A professional portfolio website for showing example work as well as information about yourself._
+_A professional portfolio website for showing example work as well as information about yourself. You can view it online here https://milkybot.github.io/week-1-project/_
 
 ## Setup/Installation Requirements
 
