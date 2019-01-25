@@ -27,6 +27,8 @@ body {
 }
 .body {
   background-color: #FFFFFF;
+  border-style: dashed;
+  border-color: #ff0000;
   padding: .5%;
 }
 .hometitle {
